@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-,
 '''
 今天詩興大發,寫了一首七言絕句.
 I wrote a seven quatrains in python.
