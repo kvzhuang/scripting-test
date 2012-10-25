@@ -1,3 +1,7 @@
+'''
+今天詩興大發,寫了一首七言絕句.
+I wrote a Seven quatrains in python.
+'''
 a = [1, 2, 3, 4, 5, 6, 7]
 
 print a[0:8]
